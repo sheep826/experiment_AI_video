@@ -202,7 +202,7 @@ const questions = [
         answer: "真實影片" 
     },
     { //龍捲風 陷阱題：真實影片但AI提示說有AI訊號
-        video: "FEBsmLRLy_0?feature=share", 
+        video: "l6bM2KrhChM", 
         filename: "23.MP4",
         type:"High_risk_Real",
         is_real: true,
@@ -211,7 +211,7 @@ const questions = [
         answer: "真實影片" 
     },
     { //海嘯
-        video: "xomffH4H_sU?feature=share", 
+        video: "23UdqvvkrcI", 
         filename: "24.MP4",
         type:"High_risk_AI",
         is_real: false,
