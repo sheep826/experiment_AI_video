@@ -8,7 +8,7 @@ const questions = [
         is_real: true, 
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //泰妍與潤兒
         video: "cd9qcIsPzTs", 
@@ -17,7 +17,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     }, 
     { //開鐵門
         video: "pOrxmVtXs3Q?feature=share", 
@@ -26,7 +26,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //入浴球
         video: "WRJULWdcMFo?feature=share", 
@@ -35,7 +35,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //農夫
         video: "ba4L-5oEcDQ?feature=share", 
@@ -44,7 +44,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //戰地記者
         video: "xf_59NZCb18", 
@@ -53,7 +53,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
 
     { //川普大谷翔平
@@ -63,7 +63,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //地震
         video: "WZHA-Dvd7Uw?feature=share", 
@@ -72,7 +72,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //炸湯圓
         video: "0SpJ-obzsdU", 
@@ -81,7 +81,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //楊紫瓊 陷阱題：真實影片但AI提示說有AI訊號
         video: "J8q_fnID_Wc", 
@@ -90,7 +90,7 @@ const questions = [
         is_real: true,
         is_trap: true,
         nowtag: "AI資訊", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //小女孩訪談 陷阱題：AI生成影片但AI提示說沒有AI訊號
         video: "FIJDrHyVHBk?feature=share", 
@@ -99,7 +99,7 @@ const questions = [
         is_real: false,
         is_trap: true,
         nowtag: "真實影片。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //木耳飲廣告
         video: "ZBZVUIXga1M", 
@@ -108,7 +108,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //AI醫生
         video: "OGiGXQ2xVtY", 
@@ -117,7 +117,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //seedance 
         video: "fJDarSdF1OI",
@@ -126,7 +126,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //韓國女生 陷阱題：AI生成影片但AI提示說沒有AI訊號
         video: "kgtkkwXzAqU", 
@@ -135,7 +135,7 @@ const questions = [
         is_real: false,
         is_trap: true,
         nowtag: "真實影片。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
 
     { //警察送飯 陷阱題：AI影片但AI提示說沒有AI訊號
@@ -145,7 +145,7 @@ const questions = [
         is_real: false,
         is_trap: true,
         nowtag: "真實影片。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //川普打架 陷阱題：AI影片但AI提示說沒有AI訊號
         video: "tSmOS-ENtuI?feature=share", 
@@ -154,7 +154,7 @@ const questions = [
         is_real: false,
         is_trap: true,
         nowtag: "真實影片。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //戰爭逃難
         video: "AZMSS9TK8Gw?feature=share", 
@@ -163,7 +163,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //炸大樓
         video: "Z68PsWLu4Go?feature=share", 
@@ -172,7 +172,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //知恩晚安
         video: "zz5k9l2Y9F0", 
@@ -181,7 +181,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //假川普 陷阱題：真實影片但AI提示說有AI訊號
         video: "kL4tZPCnZxo", 
@@ -190,7 +190,7 @@ const questions = [
         is_real: true,
         is_trap: true,
         nowtag: "AI資訊。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //高市與川普
         video: "u-UmfJ2nGFU", 
@@ -199,7 +199,7 @@ const questions = [
         is_real: true,
         is_trap: false,
         nowtag: "真實影片。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「真實影片」）" 
     },
     { //龍捲風 陷阱題：真實影片但AI提示說有AI訊號
         video: "l6bM2KrhChM", 
@@ -208,7 +208,7 @@ const questions = [
         is_real: true,
         is_trap: true,
         nowtag: "AI資訊。", 
-        answer: "真實影片" 
+        answer: "真實影片（上一步驟AI輔助標籤為「AI資訊」）" 
     },
     { //海嘯
         video: "23UdqvvkrcI", 
@@ -217,7 +217,7 @@ const questions = [
         is_real: false,
         is_trap: false,
         nowtag: "AI資訊。", 
-        answer: "AI生成影片" 
+        answer: "AI生成影片（上一步驟AI輔助標籤為「AI資訊」）" 
     }
     
 ];
